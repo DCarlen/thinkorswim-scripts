@@ -1,0 +1,1 @@
+This is a collection of useful scripts for thinkorswim. Most of these scripts are written in the thinkscript language, but where appropriate we might include useful files and programs.
